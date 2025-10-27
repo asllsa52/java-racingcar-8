@@ -32,6 +32,7 @@
 
 ## 기타
 - 잘못된 값 입력할 경우 IllegalArgumentException을 발생시킨 후 애플리케이션은 종료
+
 =======
 {\rtf1\ansi\ansicpg949\cocoartf2822
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fnil\fcharset129 AppleSDGothicNeo-Regular;}
