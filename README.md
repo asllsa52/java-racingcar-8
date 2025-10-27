@@ -1,4 +1,4 @@
-# java-car-racing
+# javascript-racingcar-8
 
 ## 기능
 - 자동차 이름과 실행 횟수를 부여받는다.
