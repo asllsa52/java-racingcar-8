@@ -1,4 +1,4 @@
-# java-racingcar-8
+# java-racingcar-precourse
 
 ## 기능
 - 자동차 이름과 실행 횟수를 부여받는다.
